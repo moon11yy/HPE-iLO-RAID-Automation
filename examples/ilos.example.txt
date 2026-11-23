@@ -1,0 +1,3 @@
+# One iLO DNS name or IPv4 address per line
+ilo-server-01.example.com
+ilo-server-02.example.com

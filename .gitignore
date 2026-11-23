@@ -1,0 +1,24 @@
+# Never commit secrets, target inventories, or infrastructure exports
+*.xml
+*.clixml
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+.env.*
+ilos.txt
+*credentials*
+*credential*
+*results.csv
+*discovery.json
+*.log
+reports/
+output/
+.tmp/
+*.tmp
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
